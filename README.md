@@ -9,6 +9,7 @@
 
 ## Referencias
 
+- [Enigma referencia](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina))
 
 ## Licencias & Autores
 
