@@ -9,3 +9,5 @@ La parte eléctrica consistía en una batería que encendía una lámpara de una
 Por supuesto, si la configuración estuviera disponible, un criptoanalista podría simplemente poner un equipo Enigma con la misma configuración y descifrar el mensaje. Uno podría mandar libros de configuración que usar, pero podrían interceptarse. En cambio, los alemanes establecieron un sistema astuto que mezcló los dos diseños.
 
 Al principio de cada mes, se daba a los operadores de la Enigma un nuevo libro que contenía las configuraciones iniciales para la máquina. Por ejemplo, en un día particular las configuraciones podrían ser poner el rotor n.º 1 en la hendidura 7, el n.º 2 en la 4 y el n.º 3 en la 6. Están entonces rotados, para que la hendidura 1 esté en la letra X, la hendidura 2 en la letra J y la hendidura 3 en la A. Como los rotores podían permutarse en la máquina, con tres rotores en tres hendiduras se obtienen otras 3 x 2 x 1 = 6 combinaciones para considerar, para dar un total de 105 456 posibles alfabetos.
+
+![image text](https://www.bbvaopenmind.com/wp-content/uploads/2017/01/1-Enigma-2.jpg)
