@@ -7,10 +7,11 @@ En la historia hemos tenido multitud de ejemplos de formas de encriptar mensajes
 
 ## Contenidos
 - El cifrador de Polybios (siglo II a. C.)
--[Informacion] (polybios.md) 
+- [Informacion](polybios.md) 
 
 
 ## Referencias
+[¿Qué es y como surge la criptografía?: un repaso por su historia](https://www.genbeta.com/desarrollo/que-es-y-como-surge-la-criptografia-un-repaso-por-su-historia#:~:text=En%20la%20historia%20hemos%20tenido,la%20historia%3A%20la%20m%C3%A1quina%20Enigma.)
 
 
 ## Licencias & Autores
