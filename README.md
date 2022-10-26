@@ -11,12 +11,14 @@ En la historia hemos tenido multitud de ejemplos de formas de encriptar mensajes
 - [Enigma patentado en 1918](Enigma.md)
 
 ## Referencias
-[¿Qué es y como surge la criptografía?: un repaso por su historia](https://www.genbeta.com/desarrollo/que-es-y-como-surge-la-criptografia-un-repaso-por-su-historia#:~:text=En%20la%20historia%20hemos%20tenido,la%20historia%3A%20la%20m%C3%A1quina%20Enigma.)
+- [¿Qué es y como surge la criptografía?: un repaso por su historia](https://www.genbeta.com/desarrollo/que-es-y-como-surge-la-criptografia-un-repaso-por-su-historia#:~:text=En%20la%20historia%20hemos%20tenido,la%20historia%3A%20la%20m%C3%A1quina%20Enigma.)
 
-- [Enigma referencia](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina))
+- [Referencia Enigma](https://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina))
 
 ## Licencias & Autores
 
-Andrés del Pino Muñoz y Paula Brito Milan 
+Andrés del Pino Muñoz: Enigma 
+
+Paula Brito Milan: Polybios 
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.
