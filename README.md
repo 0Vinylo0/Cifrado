@@ -1,4 +1,4 @@
-# Cifrado
+# Cifrado a lo largo de la historia
 
 ## Introducción
 La criptografía es una necesidad derivada de realizar comunicaciones por escrito (en su origen) creada para preservar la privacidad de la información que se transmite, garantizando que una persona que no esté autorizada no pueda leer el contenido del mensaje.
