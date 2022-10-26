@@ -6,8 +6,7 @@ La criptografía es una necesidad derivada de realizar comunicaciones por escrit
 En la historia hemos tenido multitud de ejemplos de formas de encriptar mensajes como los métodos espartanos de hace 2.500 años, el cifrado de Polybios (de los griegos) o el cifrador del César (de los romanos), y sin olvidarnos de la máquina de encriptación más famosa de la historia: la máquina Enigma.
 
 ## Contenidos
-- El cifrador de Polybios (siglo II a. C.)
-- [Informacion](polybios.md) 
+- [El cifrador de Polybios (siglo II a. C.)](polybios.md) 
 
 
 ## Referencias
